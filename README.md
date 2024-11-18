@@ -26,3 +26,15 @@ Tools and Technologies
 Power BI: For creating interactive visualizations and dashboards.
 
 Data Source: Netflix dataset for analysis.
+
+
+📊 Key Insights:
+Sentiment vs. Ratings: Positive viewer sentiment often aligns with higher IMDb ratings.
+Optimal Runtimes: Movies with moderate runtimes tend to receive better IMDb scores.
+Release Trends: Increasing content production in recent years, reflecting Netflix’s expanding library.
+💡 Suggestions:
+Content Strategy: Focus on producing content with moderate runtimes to enhance viewer satisfaction.
+Sentiment Analysis: Use sentiment scores to adjust marketing strategies and predict content success.
+Historical Trends: Replicate successful strategies from peak content release years.
+Personalized Recommendations: Enhance user engagement with tailored content suggestions.
+Marketing Campaigns: Plan promotions around successful content from peak years to attract more viewers.
